@@ -29,7 +29,8 @@ Im Physikunterricht ist Teil des Lehrplans die digitale Messwerterfassung. Die v
 | VCC  | 3.3V  |
 | GND  | GND  |
 
-
+<br /> 
+<br /> 
 
 | KY-035-Pin  | Arduino Nano-Pin |
 |     :---:      |     :---:      |
@@ -37,7 +38,8 @@ Im Physikunterricht ist Teil des Lehrplans die digitale Messwerterfassung. Die v
 | VIN  | 3.3V  |
 | S  | A0  |
 
-
+<br /> 
+<br /> 
 
 | Fotowiderstand-Pin  | Arduino Nano-Pin |
 |     :---:      |     :---:      |
@@ -48,7 +50,8 @@ zwischen den zweiten Pin des Fotowiderstandes noch einen 1KOhm-Widerstand in GND
 
 Bei dem Fotowiderstand sind beide Pins identisch. Welcher für was verwendet wird ist irrelevant. 
 
-
+<br /> 
+<br /> 
 
 | VL53LXX-V2-Pin  | Arduino Nano-Pin |
 |     :---:      |     :---:      |
@@ -57,6 +60,8 @@ Bei dem Fotowiderstand sind beide Pins identisch. Welcher für was verwendet wir
 | SCL  | A5  |
 | SDA  | A4  |
 
+<br /> 
+<br /> 
 
 | Knopf/Schalter  | Arduino Nano-Pin |
 |     :---:      |     :---:      |
